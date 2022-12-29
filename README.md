@@ -2,7 +2,7 @@
 #### I'm a Computer Science student studying at Missouri State University.
 ![I'm a Computer Science student studying at Missouri State University.](![github](/images/banner.png))
 
-My major is Computer Science with a minor in Cybersecurity. I love to work with C++ in a WSL environment.
+My major is Computer Science with a minor in Cybersecurity. I love to work with C++
 
 Skills: C++, SQL, C# with Unity, OpenGL, Multi-threaded programming, Python
 
