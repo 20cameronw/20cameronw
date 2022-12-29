@@ -4,8 +4,6 @@
 
 My major is Computer Science with a minor in Cybersecurity. I love to work with C++
 
-Skills: C++, SQL, C# with Unity, OpenGL, Multi-threaded programming, Python
-
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning about computer graphics, operating systems, and software quality assurance  
 - 👯 I’m looking to collaborate on game development with Unity and C# 
